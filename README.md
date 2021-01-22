@@ -1,4 +1,8 @@
-# Snipcart + Gatsby + DatoCMS example
+# Book Shop
+
+<!--Badges Start-->
+[![CodeFactor](https://www.codefactor.io/repository/github/wasify-inc/book-store/badge)](https://www.codefactor.io/repository/github/wasify-inc/book-store)
+<!--Badges End-->
 
 This is a demo project to get you started with a static ecommerce site powered by [Gatsby](https://www.gatsbyjs.org/), [Snipcart](https://snipcart.com/) and [DatoCMS](https://www.datocms.com/).
 
